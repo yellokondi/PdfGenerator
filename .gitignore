@@ -338,3 +338,5 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+/PDFGenerator/App_Data/PDFGeneratorDB
+/PDFGenerator/App_Data/PDFGeneratorDB_log
